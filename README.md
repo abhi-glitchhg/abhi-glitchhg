@@ -17,3 +17,5 @@ Feel free to Contact
 [gmail]: mailto:f20190041@goa.bits-pilani.ac.in
 <br>
 
+
+[![Abhijit's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhi-glitchhg)](https://github.com/abhi-glitchhg/github-readme-stats)
