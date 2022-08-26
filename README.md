@@ -12,7 +12,8 @@ Feel free to Contact
 [<img align="left" alt="Abhijit Deo | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 
 <br />
-
+ 
+ or Open a new issue [here](https://github.com/abhi-glitchhg/abhi-glitchhg/issues)
 
 [gmail]: mailto:f20190041@goa.bits-pilani.ac.in
 <br>
