@@ -13,10 +13,12 @@ Feel free to Contact
 <br />
 
 
+ or Open a new issue [here](https://github.com/abhi-glitchhg/abhi-glitchhg/issues)
+ 
 [gmail]: mailto:f20190041@goa.bits-pilani.ac.in
 
 <br>
- or Open a new issue [here](https://github.com/abhi-glitchhg/abhi-glitchhg/issues) 
+
 
 
 ![](https://komarev.com/ghpvc/?username=abhi-glitchhg&color=green)
