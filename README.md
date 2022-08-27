@@ -10,10 +10,10 @@ Feel free to Contact
 
 
 [<img align="left" alt="Abhijit Deo | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
- or Open a new issue [here](https://github.com/abhi-glitchhg/abhi-glitchhg/issues) 
 <br />
 [gmail]: mailto:f20190041@goa.bits-pilani.ac.in
 <br>
+ or Open a new issue [here](https://github.com/abhi-glitchhg/abhi-glitchhg/issues) 
 
 
 ![](https://komarev.com/ghpvc/?username=abhi-glitchhg&color=green)
