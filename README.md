@@ -24,4 +24,3 @@ Feel free to Contact
 ![](https://komarev.com/ghpvc/?username=abhi-glitchhg&color=green)
 
 
-[![Abhijit's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhi-glitchhg)](https://github.com/abhi-glitchhg/github-readme-stats)
