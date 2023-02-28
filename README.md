@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Abhijit Deo, currently an undergraduate pursuing Electronics and Instrumentation Engineering at BITS Pilani, Goa Campus. Currently exploring fields of deep learning.
+I am Abhijit Deo, currently an undergraduate pursuing Electronics and Instrumentation Engineering at BITS Pilani, Goa Campus.
 
 
 I like to climb high trees and explore nearby jungles along with our cows :)
