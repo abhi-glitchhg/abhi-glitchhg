@@ -27,9 +27,9 @@ Feel free to Contact
 # :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#90](https://github.com/CartimDraluc/Cartimpedia/pull/90) in [CartimDraluc/Cartimpedia](https://github.com/CartimDraluc/Cartimpedia)
-2. 💪 Opened PR [#90](https://github.com/CartimDraluc/Cartimpedia/pull/90) in [CartimDraluc/Cartimpedia](https://github.com/CartimDraluc/Cartimpedia)
-3. 🗣 Commented on [#89](https://github.com/CartimDraluc/Cartimpedia/issues/89) in [CartimDraluc/Cartimpedia](https://github.com/CartimDraluc/Cartimpedia)
-4. ❗️ Closed issue [#89](https://github.com/CartimDraluc/Cartimpedia/issues/89) in [CartimDraluc/Cartimpedia](https://github.com/CartimDraluc/Cartimpedia)
-5. ❗️ Opened issue [#89](https://github.com/CartimDraluc/Cartimpedia/issues/89) in [CartimDraluc/Cartimpedia](https://github.com/CartimDraluc/Cartimpedia)
+1. 🗣 Commented on [#1153](https://github.com/academicpages/academicpages.github.io/issues/1153) in [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io)
+2. 🗣 Commented on [#102](https://github.com/SforAiDl/vformer/issues/102) in [SforAiDl/vformer](https://github.com/SforAiDl/vformer)
+3. 🗣 Commented on [#102](https://github.com/SforAiDl/vformer/issues/102) in [SforAiDl/vformer](https://github.com/SforAiDl/vformer)
+4. 🗣 Commented on [#102](https://github.com/SforAiDl/vformer/issues/102) in [SforAiDl/vformer](https://github.com/SforAiDl/vformer)
+5. 🗣 Commented on [#6534](https://github.com/pytorch/vision/issues/6534) in [pytorch/vision](https://github.com/pytorch/vision)
 <!--END_SECTION:activity-->
