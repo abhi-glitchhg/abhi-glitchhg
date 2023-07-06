@@ -27,9 +27,9 @@ Feel free to Contact
 # :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#676](https://github.com/the-virtual-brain/tvb-root/pull/676) in [the-virtual-brain/tvb-root](https://github.com/the-virtual-brain/tvb-root)
-2. 💪 Opened PR [#676](https://github.com/the-virtual-brain/tvb-root/pull/676) in [the-virtual-brain/tvb-root](https://github.com/the-virtual-brain/tvb-root)
-3. 🎉 Merged PR [#675](https://github.com/the-virtual-brain/tvb-root/pull/675) in [the-virtual-brain/tvb-root](https://github.com/the-virtual-brain/tvb-root)
-4. 🗣 Commented on [#675](https://github.com/the-virtual-brain/tvb-root/issues/675) in [the-virtual-brain/tvb-root](https://github.com/the-virtual-brain/tvb-root)
-5. 🗣 Commented on [#1131](https://github.com/pytorch/examples/issues/1131) in [pytorch/examples](https://github.com/pytorch/examples)
+1. 🎉 Merged PR [#677](https://github.com/the-virtual-brain/tvb-root/pull/677) in [the-virtual-brain/tvb-root](https://github.com/the-virtual-brain/tvb-root)
+2. 💪 Opened PR [#677](https://github.com/the-virtual-brain/tvb-root/pull/677) in [the-virtual-brain/tvb-root](https://github.com/the-virtual-brain/tvb-root)
+3. 🎉 Merged PR [#676](https://github.com/the-virtual-brain/tvb-root/pull/676) in [the-virtual-brain/tvb-root](https://github.com/the-virtual-brain/tvb-root)
+4. 💪 Opened PR [#676](https://github.com/the-virtual-brain/tvb-root/pull/676) in [the-virtual-brain/tvb-root](https://github.com/the-virtual-brain/tvb-root)
+5. 🎉 Merged PR [#675](https://github.com/the-virtual-brain/tvb-root/pull/675) in [the-virtual-brain/tvb-root](https://github.com/the-virtual-brain/tvb-root)
 <!--END_SECTION:activity-->
