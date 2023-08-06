@@ -27,9 +27,9 @@ Feel free to Contact
 # :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/abhi-glitchhg/np_conv/issues/1) in [abhi-glitchhg/np_conv](https://github.com/abhi-glitchhg/np_conv)
-2. 💪 Opened PR [#687](https://github.com/the-virtual-brain/tvb-root/pull/687) in [the-virtual-brain/tvb-root](https://github.com/the-virtual-brain/tvb-root)
-3. 🎉 Merged PR [#686](https://github.com/the-virtual-brain/tvb-root/pull/686) in [the-virtual-brain/tvb-root](https://github.com/the-virtual-brain/tvb-root)
-4. 💪 Opened PR [#686](https://github.com/the-virtual-brain/tvb-root/pull/686) in [the-virtual-brain/tvb-root](https://github.com/the-virtual-brain/tvb-root)
-5. 🎉 Merged PR [#685](https://github.com/the-virtual-brain/tvb-root/pull/685) in [the-virtual-brain/tvb-root](https://github.com/the-virtual-brain/tvb-root)
+1. 🎉 Merged PR [#687](https://github.com/the-virtual-brain/tvb-root/pull/687) in [the-virtual-brain/tvb-root](https://github.com/the-virtual-brain/tvb-root)
+2. ❗ Opened issue [#1](https://github.com/abhi-glitchhg/np_conv/issues/1) in [abhi-glitchhg/np_conv](https://github.com/abhi-glitchhg/np_conv)
+3. 💪 Opened PR [#687](https://github.com/the-virtual-brain/tvb-root/pull/687) in [the-virtual-brain/tvb-root](https://github.com/the-virtual-brain/tvb-root)
+4. 🎉 Merged PR [#686](https://github.com/the-virtual-brain/tvb-root/pull/686) in [the-virtual-brain/tvb-root](https://github.com/the-virtual-brain/tvb-root)
+5. 💪 Opened PR [#686](https://github.com/the-virtual-brain/tvb-root/pull/686) in [the-virtual-brain/tvb-root](https://github.com/the-virtual-brain/tvb-root)
 <!--END_SECTION:activity-->
