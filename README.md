@@ -27,9 +27,9 @@ Feel free to Contact
 # :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#4](https://github.com/abhi-glitchhg/np_conv/issues/4) in [abhi-glitchhg/np_conv](https://github.com/abhi-glitchhg/np_conv)
-2. ❗ Opened issue [#3](https://github.com/abhi-glitchhg/np_conv/issues/3) in [abhi-glitchhg/np_conv](https://github.com/abhi-glitchhg/np_conv)
-3. 💪 Opened PR [#2](https://github.com/abhi-glitchhg/np_conv/pull/2) in [abhi-glitchhg/np_conv](https://github.com/abhi-glitchhg/np_conv)
-4. 🗣 Commented on [#1](https://github.com/abhi-glitchhg/np_conv/issues/1#issuecomment-1697511839) in [abhi-glitchhg/np_conv](https://github.com/abhi-glitchhg/np_conv)
-5. 🗣 Commented on [#1](https://github.com/abhi-glitchhg/np_conv/issues/1#issuecomment-1696925937) in [abhi-glitchhg/np_conv](https://github.com/abhi-glitchhg/np_conv)
+1. 🗣 Commented on [#2](https://github.com/abhi-glitchhg/np_conv/pull/2#issuecomment-1701599853) in [abhi-glitchhg/np_conv](https://github.com/abhi-glitchhg/np_conv)
+2. ❗ Opened issue [#4](https://github.com/abhi-glitchhg/np_conv/issues/4) in [abhi-glitchhg/np_conv](https://github.com/abhi-glitchhg/np_conv)
+3. ❗ Opened issue [#3](https://github.com/abhi-glitchhg/np_conv/issues/3) in [abhi-glitchhg/np_conv](https://github.com/abhi-glitchhg/np_conv)
+4. 💪 Opened PR [#2](https://github.com/abhi-glitchhg/np_conv/pull/2) in [abhi-glitchhg/np_conv](https://github.com/abhi-glitchhg/np_conv)
+5. 🗣 Commented on [#1](https://github.com/abhi-glitchhg/np_conv/issues/1#issuecomment-1697511839) in [abhi-glitchhg/np_conv](https://github.com/abhi-glitchhg/np_conv)
 <!--END_SECTION:activity-->
