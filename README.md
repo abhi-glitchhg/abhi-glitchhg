@@ -27,9 +27,9 @@ Feel free to Contact
 # :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#10](https://github.com/abhi-glitchhg/np_conv/issues/10) in [abhi-glitchhg/np_conv](https://github.com/abhi-glitchhg/np_conv)
-2. ❗ Opened issue [#9](https://github.com/abhi-glitchhg/np_conv/issues/9) in [abhi-glitchhg/np_conv](https://github.com/abhi-glitchhg/np_conv)
-3. 🗣 Commented on [#9](https://github.com/space-physics/pyzenodo3/pull/9#issuecomment-1722236075) in [space-physics/pyzenodo3](https://github.com/space-physics/pyzenodo3)
-4. 🔒 Closed issue [#4](https://github.com/abhi-glitchhg/np_conv/issues/4) in [abhi-glitchhg/np_conv](https://github.com/abhi-glitchhg/np_conv)
-5. 🎉 Merged PR [#8](https://github.com/abhi-glitchhg/np_conv/pull/8) in [abhi-glitchhg/np_conv](https://github.com/abhi-glitchhg/np_conv)
+1. 🗣 Commented on [#2349](https://github.com/lcompilers/lpython/issues/2349#issuecomment-1740282983) in [lcompilers/lpython](https://github.com/lcompilers/lpython)
+2. ❗ Opened issue [#10](https://github.com/abhi-glitchhg/np_conv/issues/10) in [abhi-glitchhg/np_conv](https://github.com/abhi-glitchhg/np_conv)
+3. ❗ Opened issue [#9](https://github.com/abhi-glitchhg/np_conv/issues/9) in [abhi-glitchhg/np_conv](https://github.com/abhi-glitchhg/np_conv)
+4. 🗣 Commented on [#9](https://github.com/space-physics/pyzenodo3/pull/9#issuecomment-1722236075) in [space-physics/pyzenodo3](https://github.com/space-physics/pyzenodo3)
+5. 🔒 Closed issue [#4](https://github.com/abhi-glitchhg/np_conv/issues/4) in [abhi-glitchhg/np_conv](https://github.com/abhi-glitchhg/np_conv)
 <!--END_SECTION:activity-->
