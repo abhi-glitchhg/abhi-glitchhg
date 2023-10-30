@@ -27,9 +27,9 @@ Feel free to Contact
 # :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [releasing corrfeatred](https://github.com/abhi-glitchhg/corrfeatred/releases/tag/0.0.3.1) in [abhi-glitchhg/corrfeatred](https://github.com/abhi-glitchhg/corrfeatred)
-2. 🚀 Published release [Releasing corrfeatred](https://github.com/abhi-glitchhg/corrfeatred/releases/tag/0.0.3) in [abhi-glitchhg/corrfeatred](https://github.com/abhi-glitchhg/corrfeatred)
-3. 🚀 Published release [Releasing corrfeatred](https://github.com/abhi-glitchhg/corrfeatred/releases/tag/0.0.0) in [abhi-glitchhg/corrfeatred](https://github.com/abhi-glitchhg/corrfeatred)
-4. 💪 Opened PR [#103](https://github.com/SforAiDl/vformer/pull/103) in [SforAiDl/vformer](https://github.com/SforAiDl/vformer)
-5. 🗣 Commented on [#33493](https://github.com/brave/brave-browser/issues/33493#issuecomment-1777617414) in [brave/brave-browser](https://github.com/brave/brave-browser)
+1. 🚀 Published release [Minor updates](https://github.com/abhi-glitchhg/corrfeatred/releases/tag/0.0.3.2) in [abhi-glitchhg/corrfeatred](https://github.com/abhi-glitchhg/corrfeatred)
+2. 🚀 Published release [releasing corrfeatred](https://github.com/abhi-glitchhg/corrfeatred/releases/tag/0.0.3.1) in [abhi-glitchhg/corrfeatred](https://github.com/abhi-glitchhg/corrfeatred)
+3. 🚀 Published release [Releasing corrfeatred](https://github.com/abhi-glitchhg/corrfeatred/releases/tag/0.0.3) in [abhi-glitchhg/corrfeatred](https://github.com/abhi-glitchhg/corrfeatred)
+4. 🚀 Published release [Releasing corrfeatred](https://github.com/abhi-glitchhg/corrfeatred/releases/tag/0.0.0) in [abhi-glitchhg/corrfeatred](https://github.com/abhi-glitchhg/corrfeatred)
+5. 💪 Opened PR [#103](https://github.com/SforAiDl/vformer/pull/103) in [SforAiDl/vformer](https://github.com/SforAiDl/vformer)
 <!--END_SECTION:activity-->
