@@ -27,9 +27,9 @@ Feel free to Contact
 # :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [minor update](https://github.com/abhi-glitchhg/corrfeatred/releases/tag/0.0.3.3) in [abhi-glitchhg/corrfeatred](https://github.com/abhi-glitchhg/corrfeatred)
-2. 🚀 Published release [minor update](https://github.com/abhi-glitchhg/corrfeatred/releases/tag/0.0.3.2) in [abhi-glitchhg/corrfeatred](https://github.com/abhi-glitchhg/corrfeatred)
-3. ❗ Opened issue [#3](https://github.com/abhi-glitchhg/corrfeatred/issues/3) in [abhi-glitchhg/corrfeatred](https://github.com/abhi-glitchhg/corrfeatred)
-4. 🚀 Published release [Minor updates](https://github.com/abhi-glitchhg/corrfeatred/releases/tag/0.0.3.2) in [abhi-glitchhg/corrfeatred](https://github.com/abhi-glitchhg/corrfeatred)
-5. 🚀 Published release [releasing corrfeatred](https://github.com/abhi-glitchhg/corrfeatred/releases/tag/0.0.3.1) in [abhi-glitchhg/corrfeatred](https://github.com/abhi-glitchhg/corrfeatred)
+1. ❗ Opened issue [#1](https://github.com/abhi-glitchhg/abhi-glitchhg/issues/1) in [abhi-glitchhg/abhi-glitchhg](https://github.com/abhi-glitchhg/abhi-glitchhg)
+2. 🚀 Published release [minor update](https://github.com/abhi-glitchhg/corrfeatred/releases/tag/0.0.3.3) in [abhi-glitchhg/corrfeatred](https://github.com/abhi-glitchhg/corrfeatred)
+3. 🚀 Published release [minor update](https://github.com/abhi-glitchhg/corrfeatred/releases/tag/0.0.3.2) in [abhi-glitchhg/corrfeatred](https://github.com/abhi-glitchhg/corrfeatred)
+4. ❗ Opened issue [#3](https://github.com/abhi-glitchhg/corrfeatred/issues/3) in [abhi-glitchhg/corrfeatred](https://github.com/abhi-glitchhg/corrfeatred)
+5. 🚀 Published release [Minor updates](https://github.com/abhi-glitchhg/corrfeatred/releases/tag/0.0.3.2) in [abhi-glitchhg/corrfeatred](https://github.com/abhi-glitchhg/corrfeatred)
 <!--END_SECTION:activity-->
