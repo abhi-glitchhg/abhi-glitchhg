@@ -27,8 +27,8 @@ Feel free to Contact
 # :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2794](https://github.com/pytorch/tutorials/pull/2794) in [pytorch/tutorials](https://github.com/pytorch/tutorials)
-2. 🔒 Closed issue [#1](https://github.com/abhi-glitchhg/corrfeatred/issues/1) in [abhi-glitchhg/corrfeatred](https://github.com/abhi-glitchhg/corrfeatred)
+1. 🗣 Commented on [#8376](https://github.com/pytorch/vision/issues/8376#issuecomment-2055695650) in [pytorch/vision](https://github.com/pytorch/vision)
+2. 💪 Opened PR [#2794](https://github.com/pytorch/tutorials/pull/2794) in [pytorch/tutorials](https://github.com/pytorch/tutorials)
 3. 🚀 Published release [minor update](https://github.com/abhi-glitchhg/corrfeatred/releases/tag/0.0.3.3) in [abhi-glitchhg/corrfeatred](https://github.com/abhi-glitchhg/corrfeatred)
 4. 🚀 Published release [minor update](https://github.com/abhi-glitchhg/corrfeatred/releases/tag/0.0.3.2) in [abhi-glitchhg/corrfeatred](https://github.com/abhi-glitchhg/corrfeatred)
 5. ❗ Opened issue [#3](https://github.com/abhi-glitchhg/corrfeatred/issues/3) in [abhi-glitchhg/corrfeatred](https://github.com/abhi-glitchhg/corrfeatred)
