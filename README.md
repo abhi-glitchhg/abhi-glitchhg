@@ -27,9 +27,9 @@ Feel free to Contact
 # :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8405](https://github.com/pytorch/vision/pull/8405#issuecomment-2093040448) in [pytorch/vision](https://github.com/pytorch/vision)
-2. 🗣 Commented on [#333](https://github.com/Belval/TextRecognitionDataGenerator/pull/333#issuecomment-2058138525) in [Belval/TextRecognitionDataGenerator](https://github.com/Belval/TextRecognitionDataGenerator)
-3. 🗣 Commented on [#333](https://github.com/Belval/TextRecognitionDataGenerator/pull/333#issuecomment-2058136967) in [Belval/TextRecognitionDataGenerator](https://github.com/Belval/TextRecognitionDataGenerator)
-4. 🗣 Commented on [#8376](https://github.com/pytorch/vision/issues/8376#issuecomment-2055695650) in [pytorch/vision](https://github.com/pytorch/vision)
-5. 💪 Opened PR [#2794](https://github.com/pytorch/tutorials/pull/2794) in [pytorch/tutorials](https://github.com/pytorch/tutorials)
+1. 🗣 Commented on [#8405](https://github.com/pytorch/vision/pull/8405#issuecomment-2097568567) in [pytorch/vision](https://github.com/pytorch/vision)
+2. 🗣 Commented on [#8405](https://github.com/pytorch/vision/pull/8405#issuecomment-2093040448) in [pytorch/vision](https://github.com/pytorch/vision)
+3. 🗣 Commented on [#333](https://github.com/Belval/TextRecognitionDataGenerator/pull/333#issuecomment-2058138525) in [Belval/TextRecognitionDataGenerator](https://github.com/Belval/TextRecognitionDataGenerator)
+4. 🗣 Commented on [#333](https://github.com/Belval/TextRecognitionDataGenerator/pull/333#issuecomment-2058136967) in [Belval/TextRecognitionDataGenerator](https://github.com/Belval/TextRecognitionDataGenerator)
+5. 🗣 Commented on [#8376](https://github.com/pytorch/vision/issues/8376#issuecomment-2055695650) in [pytorch/vision](https://github.com/pytorch/vision)
 <!--END_SECTION:activity-->
