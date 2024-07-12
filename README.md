@@ -27,9 +27,9 @@ Feel free to Contact
 # :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8503](https://github.com/pytorch/vision/issues/8503#issuecomment-2225794691) in [pytorch/vision](https://github.com/pytorch/vision)
-2. 🗣 Commented on [#691](https://github.com/the-virtual-brain/tvb-root/pull/691#issuecomment-2155806927) in [the-virtual-brain/tvb-root](https://github.com/the-virtual-brain/tvb-root)
-3. 🗣 Commented on [#8405](https://github.com/pytorch/vision/pull/8405#issuecomment-2097568567) in [pytorch/vision](https://github.com/pytorch/vision)
-4. 🗣 Commented on [#8405](https://github.com/pytorch/vision/pull/8405#issuecomment-2093040448) in [pytorch/vision](https://github.com/pytorch/vision)
-5. 🗣 Commented on [#333](https://github.com/Belval/TextRecognitionDataGenerator/pull/333#issuecomment-2058138525) in [Belval/TextRecognitionDataGenerator](https://github.com/Belval/TextRecognitionDataGenerator)
+1. ❌ Reopened PR [#6534](https://github.com/pytorch/vision/pull/6534) in [pytorch/vision](https://github.com/pytorch/vision)
+2. ❌ Closed PR [#6534](https://github.com/pytorch/vision/pull/6534) in [pytorch/vision](https://github.com/pytorch/vision)
+3. 🗣 Commented on [#8503](https://github.com/pytorch/vision/issues/8503#issuecomment-2225794691) in [pytorch/vision](https://github.com/pytorch/vision)
+4. 🗣 Commented on [#691](https://github.com/the-virtual-brain/tvb-root/pull/691#issuecomment-2155806927) in [the-virtual-brain/tvb-root](https://github.com/the-virtual-brain/tvb-root)
+5. 🗣 Commented on [#8405](https://github.com/pytorch/vision/pull/8405#issuecomment-2097568567) in [pytorch/vision](https://github.com/pytorch/vision)
 <!--END_SECTION:activity-->
