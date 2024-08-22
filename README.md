@@ -27,9 +27,9 @@ Feel free to Contact
 # :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8598](https://github.com/pytorch/vision/issues/8598#issuecomment-2295241945) in [pytorch/vision](https://github.com/pytorch/vision)
-2. ❌ Reopened PR [#6534](https://github.com/pytorch/vision/pull/6534) in [pytorch/vision](https://github.com/pytorch/vision)
-3. ❌ Closed PR [#6534](https://github.com/pytorch/vision/pull/6534) in [pytorch/vision](https://github.com/pytorch/vision)
-4. 🗣 Commented on [#8503](https://github.com/pytorch/vision/issues/8503#issuecomment-2225794691) in [pytorch/vision](https://github.com/pytorch/vision)
-5. 🗣 Commented on [#691](https://github.com/the-virtual-brain/tvb-root/pull/691#issuecomment-2155806927) in [the-virtual-brain/tvb-root](https://github.com/the-virtual-brain/tvb-root)
+1. 🗣 Commented on [#1](https://github.com/NVlabs/tiny-cuda-nn/issues/1#issuecomment-2305211296) in [NVlabs/tiny-cuda-nn](https://github.com/NVlabs/tiny-cuda-nn)
+2. 🗣 Commented on [#8598](https://github.com/pytorch/vision/issues/8598#issuecomment-2295241945) in [pytorch/vision](https://github.com/pytorch/vision)
+3. ❌ Reopened PR [#6534](https://github.com/pytorch/vision/pull/6534) in [pytorch/vision](https://github.com/pytorch/vision)
+4. ❌ Closed PR [#6534](https://github.com/pytorch/vision/pull/6534) in [pytorch/vision](https://github.com/pytorch/vision)
+5. 🗣 Commented on [#8503](https://github.com/pytorch/vision/issues/8503#issuecomment-2225794691) in [pytorch/vision](https://github.com/pytorch/vision)
 <!--END_SECTION:activity-->
