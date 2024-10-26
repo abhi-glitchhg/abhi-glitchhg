@@ -27,9 +27,9 @@ Feel free to Contact
 # :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/NVlabs/tiny-cuda-nn/issues/1#issuecomment-2305211296) in [NVlabs/tiny-cuda-nn](https://github.com/NVlabs/tiny-cuda-nn)
-2. 🗣 Commented on [#8598](https://github.com/pytorch/vision/issues/8598#issuecomment-2295241945) in [pytorch/vision](https://github.com/pytorch/vision)
-3. ❌ Reopened PR [#6534](https://github.com/pytorch/vision/pull/6534) in [pytorch/vision](https://github.com/pytorch/vision)
-4. ❌ Closed PR [#6534](https://github.com/pytorch/vision/pull/6534) in [pytorch/vision](https://github.com/pytorch/vision)
-5. 🗣 Commented on [#8503](https://github.com/pytorch/vision/issues/8503#issuecomment-2225794691) in [pytorch/vision](https://github.com/pytorch/vision)
+1. 🗣 Commented on [#34291](https://github.com/huggingface/transformers/pull/34291#issuecomment-2438415911) in [huggingface/transformers](https://github.com/huggingface/transformers)
+2. 🗣 Commented on [#34291](https://github.com/huggingface/transformers/pull/34291#issuecomment-2435752891) in [huggingface/transformers](https://github.com/huggingface/transformers)
+3. 🗣 Commented on [#34291](https://github.com/huggingface/transformers/pull/34291#issuecomment-2435736989) in [huggingface/transformers](https://github.com/huggingface/transformers)
+4. 🗣 Commented on [#34291](https://github.com/huggingface/transformers/pull/34291#issuecomment-2435623118) in [huggingface/transformers](https://github.com/huggingface/transformers)
+5. 🗣 Commented on [#8679](https://github.com/pytorch/vision/issues/8679#issuecomment-2427626592) in [pytorch/vision](https://github.com/pytorch/vision)
 <!--END_SECTION:activity-->
