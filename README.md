@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Abhijit Deo; BITS Pilani, Goa Campus alumnus. I am currently exploring Deep learning with medical images.  
+I am Abhijit Deo; BITS Pilani, Goa Campus alumnus. check my [website](https://abhi-glitchhg.github.io/) for more current updates 
 
 
 I like to climb high trees and explore nearby jungles along with our cows :)
