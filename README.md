@@ -27,7 +27,7 @@ Feel free to Contact
 # :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9277](https://github.com/pytorch/vision/pull/9277#issuecomment-3599984820) in [pytorch/vision](https://github.com/pytorch/vision)
+1. ❗ Opened issue [#28](https://github.com/SysCV/bdd100k-models/issues/28) in [SysCV/bdd100k-models](https://github.com/SysCV/bdd100k-models)
 2. 🗣 Commented on [#9277](https://github.com/pytorch/vision/pull/9277#issuecomment-3595742929) in [pytorch/vision](https://github.com/pytorch/vision)
 3. 🗣 Commented on [#9033](https://github.com/pytorch/vision/issues/9033#issuecomment-2822983530) in [pytorch/vision](https://github.com/pytorch/vision)
 4. 🗣 Commented on [#8777](https://github.com/pytorch/vision/issues/8777#issuecomment-2513713420) in [pytorch/vision](https://github.com/pytorch/vision)
